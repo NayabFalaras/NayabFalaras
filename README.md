@@ -1,12 +1,12 @@
 <h1 align="center">Nayab Falaras</h1>
 
 <p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:nayabfalaras157@email.com">
+    <img src="https://img.shields.io/badge/nayabfalaras157@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-nayab-falaras-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -56,19 +56,19 @@ Computer Science student with a strong interest in building scalable and user-fr
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayab-falaras&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayab-falaras&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayab-falaras&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0077B5" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/nayab-falaras?label=Followers&style=flat-square&color=0077B5" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=f4c430" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/nayab-falaras?style=flat-square&color=f4c430" alt="Stars" />
 </p>
 
 ---
@@ -77,8 +77,8 @@ Computer Science student with a strong interest in building scalable and user-fr
 
 | Platform | Details                                 |
 | :------- | :-------------------------------------- |
-| *Email*  | [your@email.com](mailto:your@email.com) |
-| *GitHub* | https://github.com/YOUR_USERNAME        |
+| *Email*  | [nayabfalaras157@email.com](mailto:your@email.com) |
+| *GitHub* | https://github.com/nayab-falaras       |
 
 ---
 
