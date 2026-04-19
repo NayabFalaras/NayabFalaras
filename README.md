@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/nayabfalaras157@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/nayab-falaras">
     <img src="https://img.shields.io/badge/GitHub-nayab-falaras-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
