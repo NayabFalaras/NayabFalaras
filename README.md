@@ -6,7 +6,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/nayab-falaras">
-    <img src="https://img.shields.io/badge/GitHub-nayab-falaras-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-nayab--falaras-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -16,40 +16,39 @@
 
 Computer Science student with a strong interest in building scalable and user-friendly applications. I focus on developing full-stack web systems, desktop applications, and mobile apps that solve real-world problems.
 
-* *Current Focus:* Web Development, Mobile App Development, and Backend Systems
-* *Technologies Exploring:* Flask, MongoDB, REST APIs, and Android Development
-* *Areas of Interest:* Software Engineering, Full Stack Development, and System Design
-* *Open to:* Collaboration on web and mobile development projects
+* **Current Focus:** Web Development, Mobile App Development, and Backend Systems
+* **Technologies Exploring:** Flask, MongoDB, REST APIs, and Android Development
+* **Areas of Interest:** Software Engineering, Full Stack Development, and System Design
+* **Open to:** Collaboration on web and mobile development projects
 
 ---
 
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,flask,mongodb,mysql,git,vscode,androidstudio,cpp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,flask,mongodb,mysql,git,vscode,androidstudio,cpp,cs" alt="Tech Stack" />
 </p>
 
-| Category              | Technologies                       |
-| :-------------------- | :--------------------------------- |
-| *Frontend*            | HTML5, CSS3, Bootstrap, JavaScript |
-| *Backend*             | Python (Flask), PHP                |
-| *Mobile Development*  | Android Studio (Java/Kotlin)       |
-| *Databases*           | MongoDB, MySQL                     |
-| *Desktop Development* | C++, Qt (OOP)                      |
-| *Tools & Platforms*   | Git, GitHub, VS Code, XAMPP        |
-| *Graphic Design*      | Canva, Adobe Photoshop (Basics)    |
+| Category              | Technologies                               |
+| :-------------------- | :----------------------------------------- |
+| **Frontend** | HTML5, CSS3, Bootstrap, JavaScript        |
+| **Backend** | Python (Flask), PHP                        |
+| **Mobile Development**| Android Studio (Java/Kotlin)               |
+| **Databases** | MongoDB, MySQL                             |
+| **Desktop / Systems** | C++, C#, Qt (OOP)                          |
+| **Tools & Platforms** | Git, GitHub, VS Code, XAMPP                |
 
 ---
 
 ## Featured Projects
 
-| Project                                 | Description                                                                    | Technologies              |
-| :-------------------------------------- | :----------------------------------------------------------------------------- | :------------------------ |
-| *Inventory & Order Management System*   | Full-stack system with admin dashboard, product management, and order tracking | Flask, MongoDB, Bootstrap |
-| *Online Admission Management System*    | Desktop-based system for managing student admissions using OOP concepts        | C++, Qt                   |
-| *AI Smart Homework Helper (Mobile App)* | Android application that generates answers using API integration               | Android Studio, API       |
-| *Discussion Forum / Microblog*          | Web-based platform for posting and commenting using server-side scripting      | PHP, MySQL, XAMPP         |
-| *Restaurant Management System*          | Desktop POS system for handling menu and orders                                | C#                        |
+| Project                                 | Description                                                                     | Technologies              |
+| :-------------------------------------- | :------------------------------------------------------------------------------ | :------------------------ |
+| **Inventory & Order Management** | Full-stack system with admin dashboard and order tracking                       | Flask, MongoDB, Bootstrap |
+| **Online Admission System** | Desktop-based system for managing student admissions using OOP                 | C++, Qt                   |
+| **AI Smart Homework Helper** | Android application that generates answers using API integration                | Android Studio, API       |
+| **Discussion Forum** | Web-based platform for posting and commenting                                   | PHP, MySQL, XAMPP         |
+| **Restaurant Management System** | Desktop POS system for handling menu and orders                                 | C#                        |
 
 ---
 
@@ -57,7 +56,7 @@ Computer Science student with a strong interest in building scalable and user-fr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nayab-falaras&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayab-falaras&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -66,19 +65,19 @@ Computer Science student with a strong interest in building scalable and user-fr
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nayab-falaras?label=Followers&style=flat-square&color=0077B5" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/nayab-falaras?label=Followers&style=social" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/nayab-falaras?style=flat-square&color=f4c430" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/nayab-falaras?style=social" alt="Stars" />
 </p>
 
 ---
 
 ## Contact
 
-| Platform | Details                                 |
-| :------- | :-------------------------------------- |
-| *Email*  | [nayabfalaras157@email.com](mailto:your@email.com) |
-| *GitHub* | https://github.com/nayab-falaras       |
+| Platform | Details                                  |
+| :------- | :--------------------------------------- |
+| **Email**| [nayabfalaras157@email.com](mailto:nayabfalaras157@email.com) |
+| **GitHub**| [github.com/nayab-falaras](https://github.com/nayab-falaras) |
 
 ---
 
