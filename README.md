@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayab Falaras</h1>
-<h3 align="center">Computer Science Student | Full-Stack & Mobile App Developer</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
   <a href="mailto:nayabfalaras157@email.com">
